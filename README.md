@@ -5,4 +5,5 @@ O arquivo utilizado foi baixado do site www.football-data.co.uk, que agrega info
 Projeto feito pelos alunos:
 
 SANDRA APARECIDA SILVA PADUA - RA 2210107281
+
 MATHEUS DE ANDRADE - RA 2221105322
